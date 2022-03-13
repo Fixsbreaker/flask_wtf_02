@@ -1,0 +1,7 @@
+h4 {
+    font-size: calc(1.275rem + .3vw);
+    color: gray;
+}
+.image-align {
+  text-align: center;
+}
